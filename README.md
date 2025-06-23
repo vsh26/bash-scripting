@@ -11,7 +11,7 @@
   - [Comparison Operators](#comparision-operators) - `-eq`, `-ne`, `-lt`, `-le`, `-gt`, `-ge`
   - [String Comparison Operators](#string-comparison-operators) - `=`, `!=`, `>`, `<`
   - [Arithmetic Operators](#arithmetic-operators) - `+`, `-`, `*`, `/`, `%`
-  - [Logical Operators](#logical-operators) - `&&`, `\|\|`, `!`
+  - [Logical Operators](#logical-operators) - `&&`, `||`, `!`
   - [File Test Operators](#file-test-operators) - `-d`, `-e`, `-f`, `-s`, `-r`, `-w`, `-x`
 - [Loops](#-loops)
   - [`for` loop](#for-loop)
